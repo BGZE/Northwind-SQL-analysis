@@ -3,7 +3,7 @@ This project uses the classic **Northwind** dataset to explore business insights
 Queries were written in PostgreSQL and executed inside a **Dockerized environment** for reproducibility.  
 
 ##  Project Structure
-Northwind_Traders/
+''' Northwind_Traders/
 │-- docker-compose.yml # Docker setup for Postgres + PgAdmin
 │-- northwind.sql # Northwind dataset schema & data
 │-- queries/ # SQL queries for analysis
@@ -11,7 +11,7 @@ Northwind_Traders/
 │ ├── profits_by_region.sql
 │ ├── customers_segmentation.sql
 │ ├── time_series.sql
-│ └── employee_performance.sql
+│ └── employee_performance.sql '''
 
 ## Setup Instructions
 1. Clone this repo:
