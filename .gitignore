@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+
+# Docker stuff
+*.log
+*.pid
+*.tmp
+
+# Don’t commit data volumes
+files/
